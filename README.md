@@ -7,12 +7,12 @@ U.S. Permanent Resident (Green Card Holder) - authorized to work in U.S. without
 Java, C, R, Python, OpenCV.
 
 ### Education:
-Bachelor of Science and Arts, Honors, Computer Science (August 2025 - Present)  
-Bachelor of Science and Arts, Honors, Mathematics (August 2023 - Present)  
-Bachelor of Science, Statistics and Data Science (August 2023 - Present)
+Bachelor of Science and Arts, Honors, Computer Science (Aug 2025 - Present)  
+Bachelor of Science and Arts, Honors, Mathematics (Aug 2023 - Present)  
+Bachelor of Science, Statistics and Data Science (Aug 2023 - Present)
 
 ### Experiences:
-Jane Street Insight Program Participant (Aug 2025 – Aug 2025)  
+Jane Street Insight Program Software Engineering Track Participant (Aug 2025 – Aug 2025)  
 - Selected as 1 of 24 participants worldwide.  
 - Learned how to use functional programming language OCaml to implement the Snake game.
 
@@ -26,4 +26,23 @@ cation accuracy by 18%.
 Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  
 - Developed an OpenCV prototype for real-time gesture recognition using OpenCV algorithms for 2D & 3D feature extraction on guitar videos.  
 - Engineered chord and fret detection system, increasing edge detection accuracy by 30% over baseline methods.
+
+### Leaderships:  
+Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)
+- Organizing outreach logistics by creating sign-up systems, making monthly meetings powerpoints, and scheduling volunteers.  
+- Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.  
+
+Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)   
+- Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.
+
+STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)
+-Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.  
+-Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
+
+### Honors
+Putnam Score: 13 (Dec 2024)
+4 x AIME qualifier 
+Math Kangaroo Top Gold Award (world top100, top 0.001%)
+Houston Integirls Math Contest 1st Place (competed individually and outperformed all multi-member teams)
+
 
