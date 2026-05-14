@@ -1,17 +1,14 @@
-<!-- About Me -->
 <section>
   <h3>About Me</h3>
   <p>CS + Math + Stats Triple Major Honors @ UT Austin</p>
   <p>Software Engineer</p>
 </section>
 
-<!-- Technical Skills -->
 <section>
   <h3>Technical Skills</h3>
   <p>Java, C, R, Python, OpenCV.</p>
 </section>
 
-<!-- Education -->
 <section>
   <h3>Education</h3>
 
@@ -22,11 +19,9 @@
   </div>
 </section>
 
-<!-- Experiences -->
 <section>
   <h3>Experiences</h3>
 
-  <!-- Jane Street -->
   <div>
     <h4>Jane Street Insight Program Software Engineering Track Participant</h4>
     <p><em>Aug 2025 – Aug 2025 | NYC, New York</em></p>
@@ -44,7 +39,6 @@
 
   <br>
 
-  <!-- Geometry of Space -->
   <div>
     <h4>Software Developer &amp; Machine Learning Researcher: Geometry of Space</h4>
     <p><em>Jan 2025 – Dec 2025 | Austin, Texas</em></p>
@@ -68,7 +62,6 @@
 
   <br>
 
-  <!-- Computer Vision Lab -->
   <div>
     <h4>Computer Vision Researcher: Computer Vision Lab</h4>
     <p><em>Mar 2025 – Oct 2025 | Austin, Texas</em></p>
@@ -84,11 +77,11 @@
   </div>
 </section>
 
-<!-- Leadership -->
+
 <section>
   <h3>Leadership</h3>
 
-  <!-- Roadshow -->
+
   <table>
     <tr>
       <td>
@@ -114,7 +107,6 @@
 
   <br>
 
-  <!-- Polymathic Scholars -->
   <table>
     <tr>
       <td>
@@ -136,7 +128,6 @@
 
   <br>
 
-  <!-- Women in STEM -->
   <table>
     <tr>
       <td>
