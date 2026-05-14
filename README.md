@@ -1,7 +1,14 @@
-### Education:
+### About Me:
 CS + Math + Stats Triple Major Honors @ UT Austin
 Software Engineer 
 U.S. Permanent Resident (Green Card Holder) - authorized to work in U.S. without sponsorship
+
+### Technical Skills: Java, C, R, Python, OpenCV.
+
+### Education:
+Bachelor of Science and Arts, Honors, Computer Science (August 2025 - Present)
+Bachelor of Science and Arts, Honors, Mathematics (August 2023 - Present)
+Bachelor of Science, Statistics and Data Science (August 2023 - Present)
 
 ### Experiences:
 Jane Street Insight Program Participant Aug 2025 – Aug 2025
