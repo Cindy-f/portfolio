@@ -14,8 +14,10 @@ Bachelor of Science, Statistics and Data Science (Aug 2023 - Present)
 Jane Street Insight Program Software Engineering Track Participant (Aug 2025 – Aug 2025)  NYC, New York  
 - Selected as 1 of 24 participants worldwide.  
 - Learned how to use functional programming language OCaml to implement the Snake game.
-<img src="assets/JS_Card.jpeg" height="200">
-![JS Group Photo](assets/JS_Group.jpg)
+<p align="center">
+  <img src="assets/JS_Card.jpeg" width="300">
+  <img src="assets/JS_Group.jpg" width="300">
+</p>
 
 Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 – Dec 2025)  Austin, Texas  
 - Designed and trained supervised learning models to classify cluster types based on spatial and photometric features, improving classifi-
