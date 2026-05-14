@@ -21,6 +21,7 @@ cation accuracy by 18%.
 - Developed a deep learning–based rotational alignment technique for preprocessing radio galaxy classification, improving efficiency by
 40%.  
 - Automated stellar data analysis pipeline and computed mass-to-light ratios across 200+ radio galaxies.
+![FRI_presentation](assets/FRI_presentation.jpg)
 
 Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin, Texas
 - Developed an OpenCV prototype for real-time gesture recognition using OpenCV algorithms for 2D & 3D feature extraction on guitar videos.  
