@@ -35,9 +35,19 @@ Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin,
 - Engineered chord and fret detection system, increasing edge detection accuracy by 30% over baseline methods.
 
 ### Leaderships:  
-Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)  
-- Organizing outreach logistics by creating sign-up systems, making monthly meetings powerpoints, and scheduling volunteers.  
-- Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.  
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/Roadshow_logo.jpeg" width="80">
+    </td>
+    <td>
+      <h2>Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)</h2>
+      <p>- Organizing outreach logistics by creating sign-up systems, making monthly meetings powerpoints, and scheduling volunteers.</p>
+      <p>- Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.</p>
+    </td>
+  </tr>
+</table>
 
 Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)   
 - Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.  
