@@ -1,4 +1,11 @@
 <section>
+  <h3>Reach out to Me:</h3>
+  <p>Email: zhoufan0923@gmail.com</p>
+  <p>Phone: 346-443-1831</p>
+</section>
+  
+
+<section>
   <h3>About Me</h3>
   <p>CS + Math + Stats Triple Major Honors @ UT Austin</p>
   <p>Software Engineer</p>
