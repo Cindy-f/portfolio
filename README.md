@@ -100,8 +100,6 @@
           Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.
         </li>
       </ul>
-
-      <!-- Hyperlink below text -->
       <p>
         <a href="[https://example.com](https://www.instagram.com/utcsroadshow?igsh=MW95dXl4ZGp2ejlqdQ==)" target="_blank">
           Roadshow Instagram
