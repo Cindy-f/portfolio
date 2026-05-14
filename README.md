@@ -35,13 +35,8 @@ Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)
 - Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.  
 
 STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)   
--Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.   
--Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
+- Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.   
+- Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
 
-### Honors
-Putnam Score: 13  
-4 x AIME qualifier  
-Math Kangaroo Top Gold Award: world top100, top 0.001% (Apr 2021)
-Houston Integirls Math Contest 1st Place: competed individually and outperformed all multi-member teams 
 
 
