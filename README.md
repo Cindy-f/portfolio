@@ -32,9 +32,9 @@ Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)
 - Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.  
 
 Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)   
-- Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.
+- Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.  
 
-STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)  
+STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)   
 -Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.   
 -Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
 
