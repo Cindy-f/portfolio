@@ -37,7 +37,7 @@ Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)
 
 STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)   
 - Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.   
-- Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
+- Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.    
 
 
 
