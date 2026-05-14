@@ -1,5 +1,7 @@
 ### Education:
 CS + Math + Stats Triple Major Honors @ UT Austin
+Software Engineer 
+U.S. Permanent Resident (Green Card Holder) - authorized to work in U.S. without sponsorship
 
 ### Experiences:
 Jane Street Insight Program Participant Aug 2025 – Aug 2025
