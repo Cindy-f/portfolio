@@ -24,7 +24,7 @@ Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 â€
 cation accuracy by 18%.  
 - Developed a deep learningâ€“based rotational alignment technique for preprocessing radio galaxy classification, improving efficiency by
 40%.  
-- Automated stellar data analysis pipeline and computed mass-to-light ratios across 200+ radio galaxies.  
+- Automated stellar data analysis pipeline and computed mass-to-light ratios across 200+ radio galaxies.   
 <p align="center">
   <img src="assets/FRI_presentation.jpg" width="400" height="300">
 </p>
