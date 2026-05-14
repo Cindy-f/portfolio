@@ -162,10 +162,7 @@
   Website
       </a>
       <p>
-      </td>
-    </tr>
-  </table>
-</section>
+
 
 
 
