@@ -16,7 +16,7 @@ Jane Street Insight Program Software Engineering Track Participant (Aug 2025 –
 - Learned how to use functional programming language OCaml to implement the Snake game.
 <p align="center">
   <img src="assets/JS_Card.jpeg" width="300" height = "250">
-  <img src="assets/JS_Group.jpg" width="350" height = "270">
+  <img src="assets/JS_Group.jpg" width="340" height = "270">
 </p>
 
 Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 – Dec 2025)  Austin, Texas  
