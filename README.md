@@ -64,7 +64,7 @@ Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin,
 <table>
   <tr>
     <td>
-      <img src="assets/WiSTEM_logo.jpeg" width="200">
+      <img src="assets/WiSTEM_logo.png" width="200">
     </td>
     <td>
       <h2>STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025) </h2>
