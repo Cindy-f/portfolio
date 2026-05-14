@@ -11,23 +11,23 @@ Bachelor of Science and Arts, Honors, Mathematics (Aug 2023 - Present)
 Bachelor of Science, Statistics and Data Science (Aug 2023 - Present)
 
 ### Experiences:
-Jane Street Insight Program Software Engineering Track Participant (Aug 2025 – Aug 2025)  
+Jane Street Insight Program Software Engineering Track Participant (Aug 2025 – Aug 2025)  NYC, New York  
 - Selected as 1 of 24 participants worldwide.  
 - Learned how to use functional programming language OCaml to implement the Snake game.
 
-Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 – Dec 2025)  
+Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 – Dec 2025)  Austin, Texas  
 - Designed and trained supervised learning models to classify cluster types based on spatial and photometric features, improving classifi-
 cation accuracy by 18%.  
 - Developed a deep learning–based rotational alignment technique for preprocessing radio galaxy classification, improving efficiency by
 40%.  
 - Automated stellar data analysis pipeline and computed mass-to-light ratios across 200+ radio galaxies.
 
-Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  
+Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin, Texas
 - Developed an OpenCV prototype for real-time gesture recognition using OpenCV algorithms for 2D & 3D feature extraction on guitar videos.  
 - Engineered chord and fret detection system, increasing edge detection accuracy by 30% over baseline methods.
 
 ### Leaderships:  
-Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)
+Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present) 
 - Organizing outreach logistics by creating sign-up systems, making monthly meetings powerpoints, and scheduling volunteers.  
 - Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.  
 
