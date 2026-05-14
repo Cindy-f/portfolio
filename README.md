@@ -127,6 +127,11 @@
             Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.
           </li>
         </ul>
+        <p>
+      <a href="https://cns.utexas.edu/academics/undergraduate-study/honors-programs/polymathic-scholars" target="_blank">
+  Website
+      </a>
+      </p>
       </td>
     </tr>
   </table>
