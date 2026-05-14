@@ -14,6 +14,8 @@ Bachelor of Science, Statistics and Data Science (Aug 2023 - Present)
 Jane Street Insight Program Software Engineering Track Participant (Aug 2025 – Aug 2025)  NYC, New York  
 - Selected as 1 of 24 participants worldwide.  
 - Learned how to use functional programming language OCaml to implement the Snake game.
+![JS_Card](assets/JS_Card.jpeg)
+![JS Group Photo](assets/JS_Group.jpg)
 
 Software Developer & Machine Learning Researcher: Geometry of Space (Jan 2025 – Dec 2025)  Austin, Texas  
 - Designed and trained supervised learning models to classify cluster types based on spatial and photometric features, improving classifi-
@@ -21,7 +23,7 @@ cation accuracy by 18%.
 - Developed a deep learning–based rotational alignment technique for preprocessing radio galaxy classification, improving efficiency by
 40%.  
 - Automated stellar data analysis pipeline and computed mass-to-light ratios across 200+ radio galaxies.
-![FRI_presentation](assets/FRI_presentation.jpg)
+![FRI poster presentation](assets/FRI_presentation.jpg)
 
 Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin, Texas
 - Developed an OpenCV prototype for real-time gesture recognition using OpenCV algorithms for 2D & 3D feature extraction on guitar videos.  
@@ -39,7 +41,6 @@ STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)
 - Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.
 - Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.
 
-OOK
 
 
 
