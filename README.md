@@ -15,7 +15,7 @@ Jane Street Insight Program Software Engineering Track Participant (Aug 2025 –
 - Selected as 1 of 24 participants worldwide.  
 - Learned how to use functional programming language OCaml to implement the Snake game.
 <p align="center">
-  <img src="assets/JS_Card.jpeg" width="300" height = "250">
+  <img src="assets/JS_Card.jpeg" width="300" height = "270">
   <img src="assets/JS_Group.jpg" width="340" height = "250">
 </p>
 
