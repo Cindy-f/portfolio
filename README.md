@@ -49,12 +49,31 @@ Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin,
   </tr>
 </table>
 
-Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)   
-- Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.  
+<table>
+  <tr>
+    <td>
+      <img src="assets/Polymath_logo.jpeg" width="200">
+    </td>
+    <td>
+      <h2>Peer Mentor: Polymathic Scholars Honors Program (Aug 2025 - May 2026)   </h2>
+      <p>- Met monthly with freshmen in the honors program and provided guidance on academic course planning and general life advice.  </p>
+    </td>
+  </tr>
+</table>
 
-STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)   
-- Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.
-- Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.
+<table>
+  <tr>
+    <td>
+      <img src="assets/WiSTEM_logo.jpeg" width="200">
+    </td>
+    <td>
+      <h2>STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025) </h2>
+      <p>- Offered constructive feedback to participants in STEM summer camp Engineering Design Challenges.</p>
+      <p>- Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
