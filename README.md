@@ -80,30 +80,37 @@
 
 <section>
   <h3>Leadership</h3>
+  
+<table>
+  <tr>
+    <td>
+      <img src="assets/Roadshow_logo.jpeg" width="200" alt="Roadshow Logo">
+    </td>
 
+    <td>
+      <h4>Operations Officer: UTCS Roadshow Outreach</h4>
+      <p><em>Apr 2025 - Present</em></p>
 
-  <table>
-    <tr>
-      <td>
-        <img src="assets/Roadshow_logo.jpeg" width="200" alt="Roadshow Logo">
-      </td>
+      <ul>
+        <li>
+          Organizing outreach logistics by creating sign-up systems, making monthly meeting PowerPoints, and scheduling volunteers.
+        </li>
 
-      <td>
-        <h4>Operations Officer: UTCS Roadshow Outreach</h4>
-        <p><em>Apr 2025 - Present</em></p>
+        <li>
+          Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.
+        </li>
+      </ul>
 
-        <ul>
-          <li>
-            Organizing outreach logistics by creating sign-up systems, making monthly meeting PowerPoints, and scheduling volunteers.
-          </li>
+      <!-- Hyperlink below text -->
+      <p>
+        <a href="[https://example.com](https://www.instagram.com/utcsroadshow?igsh=MW95dXl4ZGp2ejlqdQ==)" target="_blank">
+          Roadshow Instagram
+        </a>
+      </p>
 
-          <li>
-            Inspired and mentored Austin-area middle and high school students to explore computer science through Finch robot design.
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+    </td>
+  </tr>
+</table>
 
   <br>
 
