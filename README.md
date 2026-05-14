@@ -1,4 +1,5 @@
-# CS + Math + Stats Triple Major Honors @ UT Austin
+### Education:
+CS + Math + Stats Triple Major Honors @ UT Austin
 
 ### Experiences:
 Jane Street Insight Program Participant Aug 2025 – Aug 2025
