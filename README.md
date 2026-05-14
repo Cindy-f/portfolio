@@ -39,7 +39,7 @@ Computer Vision Researcher: Computer Vision Lab (Mar 2025 – Oct 2025)  Austin,
 <table>
   <tr>
     <td>
-      <img src="assets/Roadshow_logo.jpeg" width="80">
+      <img src="assets/Roadshow_logo.jpeg" width="160">
     </td>
     <td>
       <h2>Operations Officer: UTCS Roadshow Outreach (Apr 2025 - Present)</h2>
