@@ -40,9 +40,9 @@ STEM Role Model & Outreach Ambassador: UT Women in STEM (Mar 2025 - Oct 2025)
 -Served as a STEM role model by leading small-group discussions and providing career guidance to 100+ summer campers.  
 
 ### Honors
-Putnam Score: 13 (Dec 2024)
-4 x AIME qualifier 
-Math Kangaroo Top Gold Award (world top100, top 0.001%)
+Putnam Score: 13 (Dec 2024)  
+4 x AIME qualifier  
+Math Kangaroo Top Gold Award (world top100, top 0.001%)  
 Houston Integirls Math Contest 1st Place (competed individually and outperformed all multi-member teams)
 
 
